@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/desktop-xlets.
+
 # Workspace Names for GNOME Shell
 
 One panel button per workspace. Click to switch, right-click to rename,
